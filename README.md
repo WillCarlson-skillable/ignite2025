@@ -8,7 +8,7 @@
 <div style="margin: 50px">
 <img src="https://raw.githubusercontent.com/WillCarlson-skillable/ignite2025-ai-practicelabs/refs/heads/main/images/PRACTICE_LABS_LOGO.png" style="width: 288px">
 <h1>Congratulations, you have successfully connected to the Skillable lab platform!</h1>
-<hr>
+
 <h3><b>Next steps</b>
 <ol style="margin-left: 20px;list-style-position: inside;">
 	<li>Close this dialog using the X in the upper left of the dialog window</li>
