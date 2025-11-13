@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <link rel="stylesheet" href="https://labclient.labondemand.com/css/lab-client-layout-v2.css">
