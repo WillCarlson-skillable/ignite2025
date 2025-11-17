@@ -15,6 +15,7 @@
             <li>Unlimited practice to reinforce what you’ve learned.</li>
             <li>Realistic tasks that mirror on-the-job challenges.</li>
             <li>A safe environment to experiment and grow your skills.</li>
+			<li>An AI assistant at your fingertips for any help you need.</li>
         </ul>
         <h2>About This Beta</h2>
         <p>You’re among the first to experience our new Practice Labs product. Your feedback will help us make it even better. Thank you for being part of this journey!</p>
